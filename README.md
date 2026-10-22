@@ -4,7 +4,7 @@
 
 I've worked inside hotel operations, reporting with SAP and Power BI, and I hold an M.S. in Computer Science. I build hotel software under my studio, The Neural Horn.
 
-**Portfolio:** [milan.us](https://www.milan.us) · **CV:** [milan.us/cv](https://www.milan.us/cv/) · **LinkedIn:** [milanpatel72](https://www.linkedin.com/in/milanpatel72) · **Email:** me@milan.us
+**Portfolio:** [milan.us](https://www.milan.us) · **CV:** [milan.us/cv](https://www.milan.us/cv/) · **LinkedIn:** [milanpatel72](https://www.linkedin.com/in/milanpatel72) · **X:** [@milanpatel72](https://x.com/milanpatel72) · **Email:** me@milan.us
 
 ---
 
