@@ -2,7 +2,7 @@
 
 **Business Analyst.** I learn how a business really runs, then turn it into clear reports, simpler processes and, when it helps, the software that fixes the problem.
 
-I've worked inside hotel operations, reporting with SAP and Power BI, and I hold an M.S. in Computer Science and I'm pursuing a Doctor of Business Administration at Westcliff University. I also design and build hotel software for The Neural Horn.
+I've worked inside hotel operations, reporting with SAP and Power BI. I hold an M.S. in Computer Science and I'm pursuing a Doctor of Business Administration at Westcliff University. I also design and build hotel software for The Neural Horn.
 
 **Portfolio:** [milan.us](https://www.milan.us) · **CV:** [milan.us/cv](https://www.milan.us/cv/) · **LinkedIn:** [milanpatel72](https://www.linkedin.com/in/milanpatel72) · **X:** [@milanpatel72](https://x.com/milanpatel72) · **Email:** me@milan.us
 
